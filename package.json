@@ -1,0 +1,18 @@
+{
+  "name": "roleplay",
+  "version": "1.0.0",
+  "description": "Teko Role Playbot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KazTeko (Andy Armstrong)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.3.4",
+    "ms": "^2.1.3"
+  }
+}
